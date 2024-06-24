@@ -26,6 +26,7 @@ public class Patient
 
 	public virtual string GetNewPassword()
 	{
+		string pass = "NewPassword";
 		throw new System.NotImplementedException();
 	}
 
